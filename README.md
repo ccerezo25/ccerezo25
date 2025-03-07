@@ -20,7 +20,6 @@
 - :briefcase: Exp. in `own business` (ops, customer service).
 - :handshake: Open to `job opportunities`.
 - :chart_with_upwards_trend: Interest in `Economics`, `Politics`, and `cryptocurrencies`.
-- :earth_americas: From Ecuador.
 
 </p>
 
