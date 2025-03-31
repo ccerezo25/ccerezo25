@@ -19,7 +19,7 @@
 - :books: Exploring `Computer Science` fields.
 - :briefcase: Exp. in `own business` (ops, customer service).
 - :handshake: Open to `job opportunities`.
-- :chart_with_upwards_trend: Interest in `Economics`, `Politics`, and `cryptocurrencies`.
+- :chart_with_upwards_trend: Interest in `Economics`, `Politics`,`cryptocurrencies` and `gym`💪.
 
 </p>
 
